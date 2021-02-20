@@ -1,10 +1,24 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 2021.02.20., 10:05:12
-    Author     : Dóri
-*/
-
+#doribody{
+    background-image: url(hatter.jpg);
+    color: white;
+    font-size: 25px;
+}
+main{
+    max-width: 800px;
+}
+main {
+    margin: auto;
+}
+header {
+    font-weight: bold;
+    margin: auto;
+}
+fieldset {
+    border: solid 5px white;
+}
+legend {
+    font-weight: bold;
+}
+#gomb:hower {
+    background: pink;
+}
